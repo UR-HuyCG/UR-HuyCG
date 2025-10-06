@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UR-HuyCG
 - 👀 I’m interested in Shounen
 - 🌱 I’m currently learning Park Khor
-- 💞️ I’m looking to collaborate on java,c++
+- 💞️ I’m looking to collaborate on java,c++,javascript
 - 📫 How to reach me text me
 - 😄 Pronouns: Huy Tiểu
 - ⚡ Fun fact: no liều no lĩnh
